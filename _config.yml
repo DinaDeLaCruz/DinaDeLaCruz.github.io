@@ -8,7 +8,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Karolay De La Cruz # add your name
-author-img: portfolio.jpg # add your photo
+author-img: # add your photo
 about-author: Automation and Robotics Engineer.
   My experience focuses on the implementation of AI for robotic platforms.
   I also have a great interest in Data Science and its use in solving business problems. # add description
