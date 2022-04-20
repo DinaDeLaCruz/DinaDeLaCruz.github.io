@@ -31,11 +31,11 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
 
+        {% if site.github.is_user_page %}
         <p class="view">
-          <a href="https://www.linkedin.com/in/karolay-de-la-cruz/" class="social-icon si-rounded si-small si-linkedin">
-            <i class="fa fa-linkedin" aria-hidden="true">
-          </a>
+          <a href="https://www.linkedin.com/in/karolay-de-la-cruz/" class="social-icon si-rounded si-small si-linkedin"><i class="fa fa-linkedin" aria-hidden="true"></a>
         </p>
+        {% endif %}
 
         {% if site.show_downloads %}
         <ul class="downloads">
