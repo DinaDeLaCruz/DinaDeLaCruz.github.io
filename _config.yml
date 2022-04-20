@@ -1,6 +1,7 @@
 title: Karolay De La Cruz # your name (or website title) here
 logo: #"/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
   MSc in Automation and Robotics
   <br><br>
   An avid learner with experience in the use of AI for robotic platforms.
