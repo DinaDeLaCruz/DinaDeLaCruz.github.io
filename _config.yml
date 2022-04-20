@@ -7,8 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Interest in Data Science and its use in problem-solving.
   <br><br>
   <a href="https://www.linkedin.com/in/karolay-de-la-cruz/" class="social-icon si-rounded si-small si-linkedin">
-    <i class="icon-linkedin"></i>
-    <i class="icon-linkedin"></i>
+    <i class="fa fa-linkedin" aria-hidden="true">
   </a>
   
 theme: jekyll-theme-minimal
