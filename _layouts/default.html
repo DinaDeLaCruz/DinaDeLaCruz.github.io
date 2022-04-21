@@ -22,6 +22,16 @@
         </p>
         <p  style="text-align: justify;">{{ site.description | default: site.github.project_tagline }}</p>
 
+        <!--
+        <div style="background-image: url('images/bg_video.mp4');
+        background-size: cover; height:480px; padding-top:80px;">
+        </div>
+        -->
+
+        <video width="320" height="240" controls autoplay>
+          <source src="images/bg_video.mp4" type="video/mp4">
+        </video>
+
         {% if site.github.is_user_page %}
         <div class="socialMedia justify-content-center" style="text-align: center">
         <p class="view">
