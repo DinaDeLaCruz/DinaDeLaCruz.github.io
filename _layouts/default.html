@@ -14,8 +14,12 @@
     <div class="wrapper">
       <header>
 
-        <h1 style="text-align: center; color:black">{{ site.title | default: site.github.repository_name }}</h1>
-        <p  style="text-align: center; color:#4267C4">{{ site.prof | default: site.prof }}</p>
+        <h1 style="text-align: center; color:black">
+          {{ site.title | default: site.github.repository_name }}
+        </h1>
+        <p  style="text-align: center; color:#4267C4">
+          <b>{{ site.prof | default: site.prof }}</b>
+        </p>
         <p  style="text-align: justify;">{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_user_page %}
