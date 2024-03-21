@@ -25,6 +25,7 @@ The [AI Nose](sample_page.md) project aims to classify and quantify substances, 
     line-height: 50px; /* Optional for single-line text centering */
     border-radius: 10px; /* Rounded corners */
     border: 1px solid #ccc; /* Optional for visual distinction */
+    display:inline-block;
     margin: 0 2px">
     Programming
   </div>
@@ -37,6 +38,7 @@ The [AI Nose](sample_page.md) project aims to classify and quantify substances, 
     line-height: 50px; /* Optional for single-line text centering */
     border-radius: 10px; /* Rounded corners */
     border: 1px solid #ccc; /* Optional for visual distinction */
+    display:inline-block;
     margin: 0 2px">
     Machine Learning
   </div>
@@ -49,6 +51,7 @@ The [AI Nose](sample_page.md) project aims to classify and quantify substances, 
     line-height: 50px; /* Optional for single-line text centering */
     border-radius: 10px; /* Rounded corners */
     border: 1px solid #ccc; /* Optional for visual distinction */
+    display:inline-block;
     margin: 0 2px">
     Deep Learning
   </div>
@@ -61,6 +64,7 @@ The [AI Nose](sample_page.md) project aims to classify and quantify substances, 
     line-height: 50px; /* Optional for single-line text centering */
     border-radius: 10px; /* Rounded corners */
     border: 1px solid #ccc; /* Optional for visual distinction */
+    display:inline-block;
     margin: 0 2px">
     Data Cleaning
   </div>
@@ -73,6 +77,7 @@ The [AI Nose](sample_page.md) project aims to classify and quantify substances, 
     line-height: 50px; /* Optional for single-line text centering */
     border-radius: 10px; /* Rounded corners */
     border: 1px solid #ccc; /* Optional for visual distinction */
+    display:inline-block;
     margin: 0 2px">
     Data Manipulation 
   </div>
@@ -86,6 +91,7 @@ The [AI Nose](sample_page.md) project aims to classify and quantify substances, 
     line-height: 50px; /* Optional for single-line text centering */
     border-radius: 10px; /* Rounded corners */
     border: 1px solid #ccc; /* Optional for visual distinction */
+    display:inline-block;
     margin: 0 2px">
     Data Visualization
   </div>
