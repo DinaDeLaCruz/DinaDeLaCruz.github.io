@@ -20,7 +20,7 @@ The [AI Nose](sample_page.md) project aims to classify and quantify substances, 
   <div class="item" style="
     font-size: 12px;
     height: 50px;
-    width: 50%; /* Ensures equal width for both divs */
+    width: 16%; /* Ensures equal width for both divs */
     text-align: center;
     line-height: 50px; /* Optional for single-line text centering */
     border-radius: 10px; /* Rounded corners */
@@ -32,7 +32,7 @@ The [AI Nose](sample_page.md) project aims to classify and quantify substances, 
   <div class="item" style="
     font-size: 12px;
     height: 50px;
-    width: 50%; /* Ensures equal width for both divs */
+    width: 16%; /* Ensures equal width for both divs */
     text-align: center;
     line-height: 50px; /* Optional for single-line text centering */
     border-radius: 10px; /* Rounded corners */
@@ -44,7 +44,7 @@ The [AI Nose](sample_page.md) project aims to classify and quantify substances, 
   <div class="item" style="
     font-size: 12px;
     height: 50px;
-    width: 50%; /* Ensures equal width for both divs */
+    width: 16%; /* Ensures equal width for both divs */
     text-align: center;
     line-height: 50px; /* Optional for single-line text centering */
     border-radius: 10px; /* Rounded corners */
@@ -56,7 +56,7 @@ The [AI Nose](sample_page.md) project aims to classify and quantify substances, 
   <div class="item" style="
     font-size: 12px;
     height: 50px;
-    width: 50%; /* Ensures equal width for both divs */
+    width: 16%; /* Ensures equal width for both divs */
     text-align: center;
     line-height: 50px; /* Optional for single-line text centering */
     border-radius: 10px; /* Rounded corners */
@@ -68,7 +68,7 @@ The [AI Nose](sample_page.md) project aims to classify and quantify substances, 
   <div class="item" style="
     font-size: 12px;
     height: 50px;
-    width: 50%; /* Ensures equal width for both divs */
+    width: 16%; /* Ensures equal width for both divs */
     text-align: center;
     line-height: 50px; /* Optional for single-line text centering */
     border-radius: 10px; /* Rounded corners */
@@ -81,7 +81,7 @@ The [AI Nose](sample_page.md) project aims to classify and quantify substances, 
   <div class="item" style="  
     font-size: 12px;
     height: 50px;
-    width: 50%; /* Ensures equal width for both divs */
+    width: 16%; /* Ensures equal width for both divs */
     text-align: center;
     line-height: 50px; /* Optional for single-line text centering */
     border-radius: 10px; /* Rounded corners */
