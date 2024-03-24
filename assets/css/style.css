@@ -438,6 +438,19 @@ header {
     -webkit-font-smoothing: subpixel-antialiased
 }
 
+button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  /* Add rounded corners */
+  border-radius: 12px;
+}
+
 ul.downloads {
     list-style: none;
     height: 40px;

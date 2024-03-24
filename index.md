@@ -7,12 +7,12 @@
 
 The [AI Nose](sample_page.md) project aims to classify and quantify substances, such as alcohol, TNT, and polvora.
 
-##### Summary of contributions
+#### Summary of contributions
 - Prepare data: Preprocess & analyze database (signal preprocessing, resampling, dimensionality reduction)
 - Develop & compare models: PLS-DA, PLS-R, Logistic Regression, MLP, LSTM
 - Build user interface
 
-##### Skills
+#### Skills
 - Language: Python
 
 <div class="container" style="display: flex;
@@ -106,7 +106,7 @@ The [AI Nose](sample_page.md) project aims to classify and quantify substances, 
 
 
 
-
+<button>Click Me!</button>
 ---
 ### Social robot - Behavior learning
 <img src="images/cat_draw.svg?raw=true" width="80" height="80"/>
