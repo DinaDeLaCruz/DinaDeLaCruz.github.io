@@ -18,95 +18,35 @@ The [AI Nose](sample_page.md) project aims to classify and quantify substances, 
 <div class="container" style="display: flex;
     flex-direction: row;">
 
-  <div class="item" style="
-    font-size: 12px;
-    height: 50px;
-    width: 16%; /* Ensures equal width for both divs */
-    text-align: center;
-    line-height: 50px; /* Optional for single-line text centering */
-    border-radius: 10px; /* Rounded corners */
-    border: 2px solid #ccc; /* Optional for visual distinction */
-    display: inline-block;
-    word-break: break-all; /* new */
-    margin: 0 2px">
+  <div class="item">
     Programming
   </div>
 
-  <div class="item" style="
-    font-size: 12px;
-    height: 50px;
-    width: 16%; /* Ensures equal width for both divs */
-    text-align: center;
-    line-height: 50px; /* Optional for single-line text centering */
-    border-radius: 10px; /* Rounded corners */
-    border: 2px solid #ccc; /* Optional for visual distinction */
-    display:inline-block;
-    word-break: break-all; /* new */
-    margin: 0 2px">
+  <div class="item">
     Machine Learning
   </div>
 
-  <div class="item" style="
-    font-size: 12px;
-    height: 50px;
-    width: 16%; /* Ensures equal width for both divs */
-    text-align: center;
-    line-height: 50px; /* Optional for single-line text centering */
-    border-radius: 10px; /* Rounded corners */
-    border: 2px solid #ccc; /* Optional for visual distinction */
-    display:inline-block;
-    word-break: break-all; /* new */
-    margin: 0 2px">
+  <div class="item">
     Deep Learning
   </div>
 
-  <div class="item" style="
-    font-size: 12px;
-    height: 50px;
-    width: 16%; /* Ensures equal width for both divs */
-    text-align: center;
-    line-height: 50px; /* Optional for single-line text centering */
-    border-radius: 10px; /* Rounded corners */
-    border: 2px solid #ccc; /* Optional for visual distinction */
-    display:inline-block;
-    word-break: break-all; /* new */
-    margin: 0 2px">
+  <div class="item">
     Data Cleaning
   </div>
 
-  <div class="item" style="
-    font-size: 12px;
-    height: 50px;
-    width: 16%; /* Ensures equal width for both divs */
-    text-align: center;
-    line-height: 50px; /* Optional for single-line text centering */
-    border-radius: 10px; /* Rounded corners */
-    border: 2px solid #ccc; /* Optional for visual distinction */
-    display:inline-block;
-    word-break: break-all; /* new */
-    margin: 0 2px">
+  <div class="item">
     Data Manipulation 
   </div>
 
 
-  <div class="item" style="  
-    font-size: 12px;
-    height: 50px;
-    width: 16%; /* Ensures equal width for both divs */
-    text-align: center;
-    line-height: 50px; /* Optional for single-line text centering */
-    border-radius: 10px; /* Rounded corners */
-    border: 2px solid #ccc; /* Optional for visual distinction */
-    display:inline-block;
-    word-break: break-all; /* new */
-    margin: 0 2px">
+  <div class="item">
     Data Visualization
   </div>
 </div>
 
 
 
-<button>Click Me!</button>
+<button href="https://github.com/KarolayDeLaCruz/Github-example">View More</button>
 ---
 ### Social robot - Behavior learning
 <img src="images/cat_draw.svg?raw=true" width="80" height="80"/>

@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="855246f0-baf9-477c-9eca-4dddaaa2256d" name="Changes" comment="update margin">
+    <list default="true" id="855246f0-baf9-477c-9eca-4dddaaa2256d" name="Changes" comment="update button">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -153,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711302289773</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="update button">
+      <created>1711303767976</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1711303767976</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,6 +182,7 @@
     <MESSAGE value="update div display" />
     <MESSAGE value="update video display" />
     <MESSAGE value="update margin" />
-    <option name="LAST_COMMIT_MESSAGE" value="update margin" />
+    <MESSAGE value="update button" />
+    <option name="LAST_COMMIT_MESSAGE" value="update button" />
   </component>
 </project>
