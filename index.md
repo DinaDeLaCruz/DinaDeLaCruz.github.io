@@ -45,8 +45,10 @@ The [AI Nose](sample_page.md) project aims to classify and quantify substances, 
 </div>
 
 
+<a href="https://github.com/KarolayDeLaCruz/Github-example" class="button">
+View More
+</a>
 
-<button href="https://github.com/KarolayDeLaCruz/Github-example">View More</button>
 ---
 ### Social robot - Behavior learning
 <img src="images/cat_draw.svg?raw=true" width="80" height="80"/>

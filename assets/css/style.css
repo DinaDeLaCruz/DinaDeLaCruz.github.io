@@ -438,7 +438,7 @@ header {
     -webkit-font-smoothing: subpixel-antialiased
 }
 
-button {
+a {
   background-color: #4267C4;
   border: none;
   color: white;
