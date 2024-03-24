@@ -434,6 +434,7 @@ header {
     width: 25%;
     float: left;
     position: fixed;
+    margin: 5%;
     -webkit-font-smoothing: subpixel-antialiased
 }
 
@@ -501,8 +502,7 @@ section {
     width: 75%;
     float: right;
     margin-left: 35%;
-    padding-right: 15%;
-    padding-bottom: 15%
+    padding: 5%;
 }
 
 small {
