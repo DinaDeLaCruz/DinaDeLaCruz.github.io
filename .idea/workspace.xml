@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="855246f0-baf9-477c-9eca-4dddaaa2256d" name="Changes" comment="update divs">
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-    </list>
+    <list default="true" id="855246f0-baf9-477c-9eca-4dddaaa2256d" name="Changes" comment="update button" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -166,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711304720612</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="update button">
+      <created>1711305387401</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1711305387401</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,8 +192,8 @@
     <MESSAGE value="update div display" />
     <MESSAGE value="update video display" />
     <MESSAGE value="update margin" />
-    <MESSAGE value="update button" />
     <MESSAGE value="update divs" />
-    <option name="LAST_COMMIT_MESSAGE" value="update divs" />
+    <MESSAGE value="update button" />
+    <option name="LAST_COMMIT_MESSAGE" value="update button" />
   </component>
 </project>
