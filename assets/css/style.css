@@ -438,7 +438,7 @@ header {
     -webkit-font-smoothing: subpixel-antialiased
 }
 
-a {
+a.button {
   background-color: #4267C4;
   border: none;
   color: white;
@@ -447,6 +447,9 @@ a {
   display: inline-block;
   font-size: 14px;
   border-radius: 12px;
+  margin-top: 2%;
+  margin-left: 40%;
+  padding: 2%
 }
 
 div.item{

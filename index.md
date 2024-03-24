@@ -44,9 +44,12 @@ The [AI Nose](sample_page.md) project aims to classify and quantify substances, 
   </div>
 </div>
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+
 
 <a href="https://github.com/KarolayDeLaCruz/Github-example" class="button">
 View More
+<i class="fas fa-long-arrow-right"></i>
 </a>
 
 ---
