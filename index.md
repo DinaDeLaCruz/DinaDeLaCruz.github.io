@@ -4,7 +4,8 @@
 
 ---
 
-### AI Nose
+### AI Nose 
+<a href="https://github.com/KarolayDeLaCruz/Github-example"><img src="https://img.shields.io/badge/View_on_GitHub-blue?logo=GitHub" alt="Ver en GitHub"></a>
 
 <img src="images/nose_draw.svg?raw=true" width="80" height="80"/>
 
@@ -30,8 +31,9 @@ as alcohol, TNT, and polvora.
   <div class="item">Data Visualization</div>
 </div>
 
-<a href="https://github.com/KarolayDeLaCruz/Github-example" class="button">
-View More <i class="fas fa-long-arrow-right"></i></a>
+<!--<a href="https://github.com/KarolayDeLaCruz/Github-example" class="button">
+View More <i class="fas fa-long-arrow-right"></i></a>-->
+
 
 ---
 
@@ -62,8 +64,6 @@ animal training.
   <div class="item2">Programming</div>
 </div>
 
-<a href="https://github.com/KarolayDeLaCruz/Github-example" class="button">
-View More <i class="fas fa-long-arrow-right"></i></a>
 
 ---
 [Project 3 Title](http://example.com/)
@@ -77,6 +77,7 @@ View More <i class="fas fa-long-arrow-right"></i></a>
 - [Project 2 Title](http://example.com/)
 
 ---
+
 
 
 
