@@ -464,7 +464,18 @@ div.item{
     word-break: break-all; /* new */
     margin: 0 2px
 }
-
+div.item2{
+    font-size: 12px;
+    height: 50px;
+    width: 40%; /* Ensures equal width for both divs */
+    text-align: center;
+    line-height: 50px; /* Optional for single-line text centering */
+    border-radius: 20px; /* Rounded corners */
+    border: 2px solid #ccc; /* Optional for visual distinction */
+    display:inline-block;
+    word-break: break-all; /* new */
+    margin: 0 2px
+}
 ul.downloads {
     list-style: none;
     height: 40px;

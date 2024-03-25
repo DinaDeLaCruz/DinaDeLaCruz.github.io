@@ -56,10 +56,10 @@ animal training.
 - Language: Python
 
 <div class="container" style="display: flex; flex-direction: row;">
-  <div class="item">Robotics</div>
-  <div class="item">Artificial Intelligence</div>
-  <div class="item">Reinforcement Learning</div>
-  <div class="item">Programming</div>
+  <div class="item2">Robotics</div>
+  <div class="item2">Artificial Intelligence</div>
+  <div class="item2">Reinforcement Learning</div>
+  <div class="item2">Programming</div>
 </div>
 
 <a href="https://github.com/KarolayDeLaCruz/Github-example" class="button">
