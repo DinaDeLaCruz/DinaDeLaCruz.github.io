@@ -447,7 +447,8 @@ a.button {
   display: inline-block;
   font-size: 14px;
   border-radius: 12px;
-  margin-top: 2%;
+  margin-top: 5%;
+  margin-bottom: 5%;
   margin-left: 40%;
   padding: 1.5%
 }
@@ -466,6 +467,7 @@ div.item{
 }
 div.item2{
     font-size: 12px;
+    font-color: black;
     height: 50px;
     width: 40%; /* Ensures equal width for both divs */
     text-align: center;
