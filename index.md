@@ -3,9 +3,12 @@
 ## Portfolio
 
 ---
-<h3 style="display: inline-block; padding-right:1%">AI Nose</h3>
-<a style="display: inline-block;" href="https://github.com/KarolayDeLaCruz/Github-example">
-<img src="https://img.shields.io/badge/View_on_GitHub-blue?logo=GitHub"></a>
+<div style="display: flex; flex-direction: row;">
+  <h3>AI Nose</h3>
+  <a href="https://github.com/KarolayDeLaCruz/Github-example">
+    <img src="https://img.shields.io/badge/View_on_GitHub-blue?logo=GitHub">
+  </a>
+</div>
 
 <img src="images/nose_draw.svg?raw=true" width="80" height="80"/>
 
