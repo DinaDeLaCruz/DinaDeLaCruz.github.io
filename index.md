@@ -1,10 +1,10 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
 
-## Portfolio
+# Portfolio
 
 ---
 <div class="github-container">
-  <h3>AI Nose</h3>
+  <h2>AI Nose</h2>
   <a class="github-links" href="https://github.com/KarolayDeLaCruz/Github-example">
     <img src="https://img.shields.io/badge/View_on_GitHub-blue?logo=GitHub">
   </a>
@@ -40,7 +40,12 @@ View More <i class="fas fa-long-arrow-right"></i></a>-->
 <br>
 
 ---
-### Social robot - Behavior learning
+<div class="github-container">
+  <h2>Social robot - Behavior learning</h2>
+  <a class="github-links" href="https://github.com/KarolayDeLaCruz/Github-example">
+    <img src="https://img.shields.io/badge/View_on_GitHub-blue?logo=GitHub">
+  </a>
+</div>
 
 <img src="images/cat_draw.svg?raw=true" width="80" height="80"/>
 
