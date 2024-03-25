@@ -4,8 +4,8 @@
 
 ---
 
-### AI Nose 
-<a href="https://github.com/KarolayDeLaCruz/Github-example"><img src="https://img.shields.io/badge/View_on_GitHub-blue?logo=GitHub" alt="Ver en GitHub"></a>
+<h3 style="display: inline-block; padding-right:3%">AI NOSE</h3>
+<a style="display: inline-block;" href="https://github.com/KarolayDeLaCruz/Github-example"><img src="https://img.shields.io/badge/View_on_GitHub-blue?logo=GitHub" alt="Ver en GitHub"></a>
 
 <img src="images/nose_draw.svg?raw=true" width="80" height="80"/>
 
@@ -34,9 +34,9 @@ as alcohol, TNT, and polvora.
 <!--<a href="https://github.com/KarolayDeLaCruz/Github-example" class="button">
 View More <i class="fas fa-long-arrow-right"></i></a>-->
 
+<br>
 
 ---
-
 ### Social robot - Behavior learning
 
 <img src="images/cat_draw.svg?raw=true" width="80" height="80"/>
@@ -53,6 +53,7 @@ animal training.
 - Use AI techniques, specifically reinforcement learning (RL), to provide behavioral learning capabilities to a
   feline-looking robot that initially exhibits wild behavior
 - Evaluate the learning systems and user experience in human-robot interaction.
+
 #### Skills
 
 - Language: Python
@@ -64,6 +65,8 @@ animal training.
   <div class="item2">Programming</div>
 </div>
 
+
+<br>
 
 ---
 [Project 3 Title](http://example.com/)
