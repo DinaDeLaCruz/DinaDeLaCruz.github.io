@@ -3,9 +3,9 @@
 ## Portfolio
 
 ---
-<div style="display: flex; flex-direction: row;">
+<div class="github-container">
   <h3>AI Nose</h3>
-  <a href="https://github.com/KarolayDeLaCruz/Github-example">
+  <a class="github-links" href="https://github.com/KarolayDeLaCruz/Github-example">
     <img src="https://img.shields.io/badge/View_on_GitHub-blue?logo=GitHub">
   </a>
 </div>

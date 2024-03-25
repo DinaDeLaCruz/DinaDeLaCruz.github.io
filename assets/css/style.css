@@ -453,6 +453,15 @@ a.button {
   padding: 1.5%
 }
 
+a.github-links{
+    padding-left: 1.5%;
+}
+
+div.github-container{
+    display: flex;
+    flex-direction: row;
+}
+
 div.item{
     font-size: 12px;
     height: 50px;
