@@ -472,7 +472,7 @@ div.item{
     border: 2px solid #ccc; /* Optional for visual distinction */
     display:inline-block;
     word-break: break-all; /* new */
-    margin: 0 2px
+    margin: 0 4px
 }
 div.item2{
     font-size: 12px;
@@ -485,7 +485,7 @@ div.item2{
     border: 2px solid #ccc; /* Optional for visual distinction */
     display:inline-block;
     word-break: break-all; /* new */
-    margin: 0 2px
+    margin: 0 4px
 }
 ul.downloads {
     list-style: none;
@@ -551,7 +551,8 @@ section {
     width: 75%;
     float: right;
     margin-left: 35%;
-    padding: 5%;
+    margin-right: 5%;
+    padding: 2%;
 }
 
 small {
