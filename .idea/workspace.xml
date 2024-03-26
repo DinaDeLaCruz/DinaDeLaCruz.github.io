@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="855246f0-baf9-477c-9eca-4dddaaa2256d" name="Changes" comment="update titles" />
+    <list default="true" id="855246f0-baf9-477c-9eca-4dddaaa2256d" name="Changes" comment="update margins">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -290,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711391109612</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="update margins">
+      <created>1711391453486</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1711391453486</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -318,6 +328,7 @@
     <MESSAGE value="update first project" />
     <MESSAGE value="update header" />
     <MESSAGE value="update titles" />
-    <option name="LAST_COMMIT_MESSAGE" value="update titles" />
+    <MESSAGE value="update margins" />
+    <option name="LAST_COMMIT_MESSAGE" value="update margins" />
   </component>
 </project>

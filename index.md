@@ -5,14 +5,14 @@
 ---
 <div class="github-container">
   <h2>AI Nose</h2>
-  <a class="github-links" href="https://github.com/KarolayDeLaCruz/Github-example">
+  <a class="github-links" href="https://github.com/KarolayDeLaCruz/AI-Nose">
     <img src="https://img.shields.io/badge/View_on_GitHub-blue?logo=GitHub">
   </a>
 </div>
 
 <img src="images/nose_draw.svg?raw=true" width="80" height="80"/>
 
-The [AI Nose](https://github.com/KarolayDeLaCruz/Github-example) project aims to classify and quantify substances, such
+The [AI Nose](https://github.com/KarolayDeLaCruz/AI-Nose) project aims to classify and quantify substances, such
 as alcohol, TNT, and polvora.
 
 #### Summary of contributions
@@ -42,14 +42,14 @@ View More <i class="fas fa-long-arrow-right"></i></a>-->
 ---
 <div class="github-container">
   <h2>Social robot - Behavior learning</h2>
-  <a class="github-links" href="https://github.com/KarolayDeLaCruz/Github-example">
+  <a class="github-links" href="https://github.com/KarolayDeLaCruz/TFM">
     <img src="https://img.shields.io/badge/View_on_GitHub-blue?logo=GitHub">
   </a>
 </div>
 
 <img src="images/cat_draw.svg?raw=true" width="80" height="80"/>
 
-The objective of the [Behavior learning](https://github.com/KarolayDeLaCruz/Github-example) project is to develop a
+The objective of the [Behavior learning](https://github.com/KarolayDeLaCruz/TFM) project is to develop a
 pet-type social robot by implementing an intelligent learning system in a
 robot with initially wild behavior, enhancing certain behaviors through human-robot interaction in a process similar to
 animal training.
